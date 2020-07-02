@@ -9,9 +9,8 @@ So after reading books, blogs and watching videos I felt like let's summarize al
 * **Introduction to Kubernetes**
 * **Kubernetes Architecture**
 * **Pods in Kubernetes**
-* **Controllers**
-    * **Replication Controller**
-    * **Replica Set**
+* **Replication Controller**
+* **Replica Set**
 * **Deployment**
     * **Recreate**
     * **Rolling-Update**
